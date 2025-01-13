@@ -6,19 +6,9 @@
 }
 
 body {
-  animation: body-background 5s linear infinite;
-  transition: 4s;
+  background-color: black;
 }
-@keyframes body-background {
-  0% {
-    background-image: radial-gradient(circle, #1c0854, #2c053d);
-  }
 
-  100% {
-    background-image: radial-gradient(circle, #05394a, #3c0548);
-  }
-  
-}
 .container {
   width: 700px;
   height: 527px;

@@ -5,7 +5,6 @@ const boxWidth = 20;
 const boxCounter = 26;
 
 boxContainer.style = `--num-div:${boxCounter};--box-width:${boxWidth}px;--transformPos:80px;`;
-// document.body.style.backgroundImage = "radial-gradient(circle,"
 function creatBoxes(imageUrl) {
   for (let i = 0; i < boxCounter; i++) {
     const newBox = document.createElement('div');
