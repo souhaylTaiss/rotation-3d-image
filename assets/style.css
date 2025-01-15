@@ -56,6 +56,8 @@ body {
   background-position-x: var(--box-width);
 }
 
+/* File input */
+
 input {
   display: none;
 }
