@@ -30,4 +30,4 @@ It uses CSS 3D transforms and JavaScript event handling to simulate realistic de
 ## 🚀 How to Run
 1. Download or clone the repository:
    ```bash
-   git clone https://github.com/souhayltaiss/rotation-3d-image.git
+   git clone https://github.com/souhaylTaiss/rotation-3d-img.git
